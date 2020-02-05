@@ -5,7 +5,7 @@
   "data_sources": [
     {
       "name": "AVMOO 日本",
-      "link": "https://avmask.com",
+      "link": "https://avmask.com/cn",
       "legacies":[
         "javzoo.com",
         "avmoo.xyz",
@@ -25,7 +25,7 @@
     },
     {
       "name": "AVSOX 日本无码",
-      "link": "https://avsox.host",
+      "link": "https://avsox.host/cn",
       "legacies":[
         "avme.pw",
         "avsox.net",
